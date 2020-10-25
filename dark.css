@@ -1,0 +1,82 @@
+:root {
+    --bg: #2a2d36!important;
+    --text: #e9e9e9!important;
+  }
+body{
+    background: var(--bg)
+}
+.u-color-js-gray{
+        color: white!important;
+}
+div.o-block__body h4 a{
+    color: white!important;
+
+}
+a.u-color-js-gray:hover{
+    
+    color: white!important;
+}
+header.c-header{
+    background: var(--bg)
+}
+h2.u-h4{
+    color: var(--text)
+}
+a.u-ellipsis{
+    color: var(--text)
+
+}
+a.c-nav__link{
+    color: var(--text)
+}
+#root > div.home > div.u-4\/5-min-vh{
+    background: var(--bg);
+}
+aside.c-aside.c-aside--fixed{
+    background: var(--bg);
+}
+aside.c-aside.c-aside--flyout{
+    background: var(--bg);
+    color: var(--text);
+}
+ol[data-rbd-droppable-id=sidebar-queue] li{
+    background: var(--bg);
+    color: var(--text);
+}
+aside.c-aside.c-aside--fixed > nav > ul >li span.u-color-js-gray{
+    color: var(--text);
+}
+span.o-list-block__item.u-color-js-gray{
+    color: var(--text)!important;
+}
+#root > div.home.banner > aside.c-player > div.c-player__panel > figure > figcaption > h4 > a {
+    color: var(--text);
+}
+span.c-nav__link{
+    color: var(--text)
+}
+div.c-dropdown__header{
+    color: var(--text)
+    
+}
+a.c-logo>svg{
+    fill: var(--text)
+}
+span.c-dropdown__type{
+    color: var(--text)
+}
+aside.c-player{
+    background: var(--bg);
+    color: var(--text);
+}
+div.c-player__panel{
+    background: var(--bg);
+    color: var(--text);
+}
+div.c-player__panel ul{
+    background: var(--bg);
+    color: var(--text);
+}
+figure.c-player__current figcaption h4 a.u-color-js-gray{
+    color: white!important;
+}

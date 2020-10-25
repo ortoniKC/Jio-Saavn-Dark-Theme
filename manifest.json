@@ -1,0 +1,19 @@
+{
+    "name": "Jio Music Dark",
+    "description": "Convert the Jio music to dark theme",
+    "version": "1.0",
+    "manifest_version": 2,
+    "icons": {
+        "128": "Jio music.png"
+    },
+    "background": {
+        "scripts": [
+            "bg.js"
+        ],
+        "persistent": false
+    },
+    "permissions": [
+        "https://www.jiosaavn.com/",
+        "tabs"
+    ]
+}
